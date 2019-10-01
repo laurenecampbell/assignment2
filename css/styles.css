@@ -1,7 +1,21 @@
 body {
     color: rgb(243, 187, 75);
     background-color: snow;
-    font-family:fantasy;
+    font-family: fantasy;
 
+
+}
+
+.black-span {
+    color: black;
+
+}
+
+.centered {
+
+    padding: 10px 10px 10px 10px;
+    border: 1px solid;
+    margin: 0 auto 0 auto;
+    width: 80%;
 
 }
