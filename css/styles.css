@@ -3,19 +3,35 @@ body {
     background-color: snow;
     font-family: fantasy;
 
+}
 
+h2 {
+    color: black
 }
 
 .black-span {
-    color: black;
+    color: grey;
 
 }
 
 .centered {
 
-    padding: 10px 10px 10px 10px;
-    border: 1px solid;
+    padding: 11px 11px 11px 11px;
+    border: 2px solid;
     margin: 0 auto 0 auto;
     width: 80%;
 
+}
+
+#new {
+
+    color: black;
+    font-style: italic;
+    font-size: 2em;
+    border: 6px dotted black
+}
+
+img {
+
+    border: 6px dotted black
 }
